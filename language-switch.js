@@ -1,0 +1,1 @@
+(()=>{const a=document.getElementById('language-switch');if(!a)return;const target=a.getAttribute('href');const sync=()=>a.setAttribute('href',target+location.hash);sync();addEventListener('hashchange',sync);})();
