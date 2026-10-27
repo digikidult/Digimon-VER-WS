@@ -9,3 +9,4 @@ body{padding-bottom:100px}
 .bottom-social-banner .social-credit{margin:0;color:var(--ink);font-size:11px;line-height:1.5;white-space:nowrap;text-align:center}
 .bottom-social-banner .social-credit-group .social-links{margin:0;justify-content:center}
 @media(max-width:380px){.bottom-social-banner{gap:10px;padding-left:10px;padding-right:10px}.bottom-social-banner .social-credit{font-size:10px}.bottom-social-banner .digikidult-logo{width:42px;height:42px}}
+.bottom-social-banner .digikidult-logo{object-fit:contain;clip-path:none;border-radius:50%}
